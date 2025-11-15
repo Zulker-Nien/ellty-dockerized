@@ -2,7 +2,7 @@
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/Zulker-Nien/ellty-dockerized.git
 cd ellty-dockerized
 
 # Start with Docker
