@@ -13,9 +13,7 @@ docker-compose up --build
 # Run pgadmin
 ## Create database called 
 ### (synchronized is set to true so you don't have to run any migrations)
-```bash
 ellty-db
-```
 
 # Terminal 1: Backend
 cd ellty2-backend
